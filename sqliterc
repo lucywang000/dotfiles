@@ -1,0 +1,4 @@
+-- -*-mode:sql-*-
+.headers ON
+.mode line
+
